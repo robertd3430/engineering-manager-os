@@ -1,0 +1,35 @@
+{
+  "teams": [
+    {
+      "id": "fe-capabilities",
+      "name": "FE Capabilities",
+      "members": [
+        { "name": "PO 1", "role": "PO" },
+        { "name": "DR 1", "relationship": "direct" },
+        { "name": "DR 2", "relationship": "direct" },
+        { "name": "PO 2", "role": "PO" },
+        { "name": "Dev 1", "role": "developer" }
+      ],
+      "collaborators": []
+    },
+    {
+      "id": "moonshot",
+      "name": "Moonshot",
+      "members": [
+        { "name": "DR 3", "relationship": "direct" },
+        { "name": "PO 3", "role": "PO" },
+        { "name": "Arch 1", "role": "Architect" },
+        { "name": "Dev 2", "role": "developer" }
+      ],
+      "collaborators": []
+    }
+  ],
+  "fiscal_year": {
+    "q1": ["Jan", "Feb", "Mar"],
+    "q2": ["Apr", "May", "Jun"],
+    "q3": ["Jul", "Aug", "Sep"],
+    "q4": ["Oct", "Nov", "Dec"]
+  },
+  "PI Quarters": ["PI1", "PI2", "PI3", "PI4"],
+  "Sprints": ["PI1S1", "PI1S2", "PI1S3", "PI1S4", "PI1S5", "PI1S6", "PI2S1", "PI2S2", "PI2S3", "PI2S4", "PI2S5", "PI2S6", "PI3S1", "PI3S2", "PI3S3", "PI3S4", "PI3S5", "PI3S6", "PI4S1", "PI4S2", "PI4S3", "PI4S4", "PI4S5", "PI4S6"]
+}

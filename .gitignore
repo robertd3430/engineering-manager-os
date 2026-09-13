@@ -1,0 +1,5 @@
+# Contains real names/roles for your teams — keep this out of version control
+#workspace/config/roster.json
+
+# OS cruft
+.DS_Store
